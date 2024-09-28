@@ -1,0 +1,16 @@
+id,first_name,last_name,country_id,birth_date,market_value,contract_expires
+1e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,John,Doe,2e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1990-01-01,5000000,2025-06-30
+2e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,Jane,Smith,3e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1992-02-02,3000000,2024-12-31
+3e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,Michael,Brown,4e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1988-03-03,7000000,2023-11-30
+4e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,Emily,Davis,5e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1995-04-04,2000000,2026-05-31
+5e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,Chris,Wilson,6e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1991-05-05,4500000,2025-07-31
+6e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,Jessica,Moore,7e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1993-06-06,3500000,2024-08-31
+7e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,David,Taylor,8e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1989-07-07,6000000,2023-09-30
+8e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,Ashley,Anderson,9e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1994-08-08,2500000,2026-10-31
+9e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,Matthew,Thomas,1e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3b,1990-09-09,5500000,2025-12-31
+1e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,Laura,Jackson,2e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,1992-10-10,4000000,2024-11-30
+2e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,Daniel,White,3e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,1988-11-11,6500000,2023-10-31
+3e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,Sarah,Harris,4e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,1995-12-12,3000000,2026-09-30
+4e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,James,Martin,5e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,1991-01-13,5000000,2025-08-31
+5e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,Olivia,Thompson,6e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,1993-02-14,3500000,2024-07-31
+6e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,Joshua,Garcia,7e4d1a2e-4b5f-4a3b-9b6d-1a2e4b5f4a3c,1989-03-15,6000000,2023-06-30

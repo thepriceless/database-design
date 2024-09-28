@@ -1,0 +1,16 @@
+id,name,home_venue_id,logo_link
+f15a90b8-60ef-44d3-a2b5-13a36f31b715,Manchester United,123e4567-e89b-12d3-a456-426614174000,http://example.com/logo1.png
+8b4468fe-ef7f-451d-aacd-b0b619ca04f8,Real Madrid,123e4567-e89b-12d3-a456-426614174001,http://example.com/logo2.png
+f1abaf7e-1bbb-4a09-90e3-989d97a3d934,Barcelona,123e4567-e89b-12d3-a456-426614174002,http://example.com/logo3.png
+b4d71df3-6f2f-4339-be45-a247384d6129,Juventus,123e4567-e89b-12d3-a456-426614174003,http://example.com/logo4.png
+c8087196-94fc-4f6b-8432-7cd5edf1efb8,Bayern Munich,123e4567-e89b-12d3-a456-426614174004,http://example.com/logo5.png
+9404783a-1c8c-4db9-9422-ec296a2ce14d,Paris Saint-Germain,123e4567-e89b-12d3-a456-426614174005,http://example.com/logo6.png
+08ac04ba-da3f-42aa-a9e1-a4587d02c5e4,Liverpool,123e4567-e89b-12d3-a456-426614174006,http://example.com/logo7.png
+b2eeb2b4-b7f5-49f2-9f5f-caf98fb06ae1,Manchester City,123e4567-e89b-12d3-a456-426614174007,http://example.com/logo8.png
+39d10960-dabe-4884-985d-6490de46324b,Chelsea,123e4567-e89b-12d3-a456-426614174008,http://example.com/logo9.png
+cc793045-c139-4c65-a2a8-72daf585b0d0,Arsenal,123e4567-e89b-12d3-a456-426614174009,http://example.com/logo10.png
+22598e16-db68-4f50-9de6-6fab813410cc,Tottenham Hotspur,123e4567-e89b-12d3-a456-426614174010,http://example.com/logo11.png
+f26eda2b-f221-458d-a1ed-2dd36352f44d,AC Milan,123e4567-e89b-12d3-a456-426614174011,http://example.com/logo12.png
+401e159d-f0a3-4681-ba24-f72d4693e67c,Inter Milan,123e4567-e89b-12d3-a456-426614174012,http://example.com/logo13.png
+9f347ba0-a3b5-49bd-93b4-2072410f5126,Borussia Dortmund,123e4567-e89b-12d3-a456-426614174013,http://example.com/logo14.png
+35936ead-beb8-498a-a254-b163135079e7,Atletico Madrid,123e4567-e89b-12d3-a456-426614174014,http://example.com/logo15.png
